@@ -2,7 +2,7 @@
 user-guide-title: Adobe [!DNL GenStudio for Performance Marketing] 教程
 breadcrumb-title: Adobe [!DNL GenStudio for Performance Marketing] 教程
 user-guide-description: 查看Adobe [!DNL GenStudio for Performance Marketing]上的Experience League教程，这是一个端到端解决方案，可通过创作AI和智能自动化来加速和简化内容供应链。
-source-git-commit: 62996e5f9182b3058cb176ffe131066d741799f8
+source-git-commit: 6ed3e02f8c8f8d5992476a309631e0108de99a98
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

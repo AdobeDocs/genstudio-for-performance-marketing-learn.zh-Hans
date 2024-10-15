@@ -1,10 +1,10 @@
 ---
-title: GenStudio for Performance Marketing教程
+title: GenStudio性能营销Tutorials
 description: 观看有关GenStudio for Performance Marketing功能的视频教程。 了解如何快速创建品牌内资产、生成变体和优化体验。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-source-git-commit: 16e7ce896d450633183232443eb8a44cf3bb4b2b
+source-git-commit: 6ed3e02f8c8f8d5992476a309631e0108de99a98
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 1%
