@@ -1,21 +1,115 @@
 ---
-title: GenStudio性能营销Tutorials
-description: 观看有关GenStudio for Performance Marketing功能的视频教程。 了解如何快速创建品牌内资产、生成变体和优化体验。
+title: GenStudio for Performance MarketingTutorials
+description: 观看有关GenStudio for Performance Marketing功能的视频教程。 了解如何快速创建品牌资产、生成变体并优化体验。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-source-git-commit: 6ed3e02f8c8f8d5992476a309631e0108de99a98
+exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
+source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '161'
+ht-degree: 24%
 
 ---
 
-
-# Adobe[!DNL GenStudio for Performance Marketing]教程
+# Adobe [!DNL GenStudio for Performance Marketing] 教程
 
 
 充分利用[!DNL GenStudio for Performance Marketing]。 使用这些教程学习[!DNL GenStudio for Performance Marketing]的功能，为您的企业获取利益。
+
+## 输入您的品牌
+
+<!-- CARDS
+
+* ./inputting-your-brand/inputting-brand-product-persona.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Inputting Brand, Product, and Persona">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="输入品牌、产品和角色" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="输入品牌、产品和角色"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" title="输入品牌、产品和角色">输入品牌、产品和角色</a>
+                    </p>
+                    <p class="is-size-6">本视频详细介绍了如何将贵公司的品牌准则、产品和关键营销角色输入到GenStudio for Performance Marketing中。</p>
+                </div>
+                <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## 创建体验
+
+<!-- CARDS
+
+* ./creating-experiences/creating-on-brand-emails.md
+* ./creating-experiences/creating-on-meta-ads.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create On-Brand Marketing Emails">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./creating-experiences/creating-on-brand-emails.md" title="创建品牌内营销电子邮件" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="创建品牌内营销电子邮件"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" title="创建品牌内营销电子邮件">创建品牌内营销电子邮件</a>
+                    </p>
+                    <p class="is-size-6">查看如何使用 Adobe [!DNL GenStudio for Performance Marketing] 创建品牌营销电子邮件的步骤说明。</p>
+                </div>
+                <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create On-Brand Meta Ads">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./creating-experiences/creating-on-meta-ads.md" title="创建品牌内元广告" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="创建品牌内元广告"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="创建品牌内元广告">创建品牌内元广告</a>
+                    </p>
+                    <p class="is-size-6">按照产品分步演示，在 [!DNL GenStudio for Performance Marketing] 中创建元广告。</p>
+                </div>
+                <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- 
 
@@ -40,41 +134,42 @@ Curated learning experiences by role and skill level are also offered in the cou
 
 -->
 
-## 员工精选
+<!--  
+## Staff picks
 
 <table>
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="创建品牌内营销电子邮件" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
-    <strong>创建品牌内营销电子邮件</strong>
+    <strong>Creating On-Brand Marketing Emails</strong>
     </a>
     </div>
     <p>
-    <em>有关如何使用Adobe的GenStudio for Performance Marketing创建品牌内营销电子邮件的分步说明。</em>
+    <em>A step by step explanation of how to create on-brand marketing emails with Adobe's GenStudio for Performance Marketing.</em>
     <p>
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="创建品牌内元广告" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
-    <strong>创建品牌内元广告</strong>
+    <strong>Creating On-Brand Meta Ads</strong>
     </a>
     </div>
     <p>
-    <em>在GenStudio for Performance Marketing中创建元广告时，请按照产品逐步说明进行操作。</em>
+    <em>Follow a step-by-step product walk-thru of creating a meta ad in GenStudio for Performance Marketing.</em>
     <p>
   </td>
 </table>
 
 </div>
 
-<!--   
+ 
 ## Additional resources
 
 [Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
