@@ -20,4 +20,4 @@ ht-degree: 0%
 
 有关如何使用Adobe [!DNL GenStudio for Performance Marketing]创建品牌内营销电子邮件的分步说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435077/?learn=on&captions=chi_hans)

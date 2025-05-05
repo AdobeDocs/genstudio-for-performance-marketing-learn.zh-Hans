@@ -20,4 +20,4 @@ ht-degree: 36%
 
 按照产品分步演示，在 [!DNL GenStudio for Performance Marketing] 中创建元广告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435088/?learn=on&captions=chi_hans)
