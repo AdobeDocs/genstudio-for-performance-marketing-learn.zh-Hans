@@ -20,4 +20,4 @@ ht-degree: 83%
 
 本视频详细介绍了如何将您公司的品牌指南、产品和关键营销用户画像输入 GenStudio for Performance Marketing。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439381/?captions=chi_hans&learn=on&enablevpops)
