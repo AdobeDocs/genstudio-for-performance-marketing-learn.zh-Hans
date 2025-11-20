@@ -1,5 +1,5 @@
 ---
-title: 创建品牌内元广告
+title: 创建品牌内Meta广告
 description: 按照产品逐步说明在 [!DNL GenStudio for Performance Marketing]中创建元广告。
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 按照产品分步演示，在 [!DNL GenStudio for Performance Marketing] 中创建元广告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435088/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
