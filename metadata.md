@@ -5,18 +5,20 @@ type: Tutorial
 topic: Content Supply Chain
 feature-set: GenStudio for Performance Marketing
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing-learn.zh-Hans
+git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing-learn.en
+landing-page-name: genstudio-for-performance-marketing
+landing-page-breadcrumb-title: GenStudio
 index: true
-source-git-commit: 609cd9e1a85c916270009ac12f2520d3ebc2d6df
+source-git-commit: 733b1be3d4ff8ec93ec4f2e8a1cc89ddbb1b8646
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 98%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
 
-# 供内部使用的元数据
+# 元数据供内部使用
 
-metadata.md 文件中包含 repo 级别的元数据，这些元数据可以传递到 repo 中的用户指南 TOC.md 文件。如果要更改任何用户指南的 metadata.md 内容，请在 TOC.md 文件中进行更改。
+metadata.md文件包含存储库级别的元数据，这些元数据会传送到存储库中的用户指南TOC.md文件。 如果要更改任何用户指南的metadata.md内容，请在任何TOC.md文件中进行更改。
 
-请参阅[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)以获取 **solution**、**product** 和 **type** 的有效值的列表。
+查看[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)以获取&#x200B;**解决方案**、**产品**&#x200B;和&#x200B;**类型**&#x200B;的有效值列表。
